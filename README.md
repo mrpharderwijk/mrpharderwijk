@@ -35,6 +35,7 @@ Here are a few things I've picked up along my learning journey.
 ### Content Management
 ![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?&style=for-the-badge&logo=strapi&logoColor=white)
 ![Contentful](https://img.shields.io/badge/Contentful-2478CC?&style=for-the-badge&logo=contentful&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?&style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
