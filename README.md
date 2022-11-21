@@ -27,7 +27,7 @@ Here are a few things I've picked up along my learning journey.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Cloud
-![AWS](https://img.shields.io/badge/Amazon-AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## 📫 Get in touch
