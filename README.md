@@ -25,7 +25,7 @@ Here are a few things I've picked up along my learning journey.
 ### Frameworks
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![NextJS](https://img.shields.io/badge/Nextdotjs-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![NextJS](https://img.shields.io/badge/NextJS-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=black)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
 ![NestJS](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
 
