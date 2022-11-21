@@ -32,6 +32,10 @@ Here are a few things I've picked up along my learning journey.
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
 ![NestJS](https://img.shields.io/badge/NestJS%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
 
+### Content Management
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?&style=for-the-badge&logo=strapi&logoColor=white)
+![Contentful](https://img.shields.io/badge/Contentful-2478CC?&style=for-the-badge&logo=contentful&logoColor=white)
+
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
